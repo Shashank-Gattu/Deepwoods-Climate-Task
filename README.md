@@ -1,5 +1,5 @@
 # Deepwoods-Climate-Task
-
+<img src = "qrcode.png" alt ="scan the code" width ="200px">
 Project Overview: Green Positive is an interactive web application designed to promote environmental sustainability by allowing users to calculate their CO₂ savings from commuting via electric vehicles (EVs). The platform encourages users to participate in the Green Positive campaign, share their impact on social media, and submit feedback to help improve the platform's features.
 Features:
 
